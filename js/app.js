@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Wishing U a very Happy Birthday dear Shalini!'; /* The text */
+var txt = 'Wishing U a very Happy Birthday dear XXX!'; /* The text */
 var speed = 100; /* The speed/duration of the effect in milliseconds */
 var newline='<br/>';
 var emoji='&#128522;';
