@@ -1,8 +1,8 @@
 var i = 0;
-var txt = 'Wishing U a very Happy Birthday dear XXX!'; /* The text */
+var txt = 'Wishing U a very Happy Kṛṣṇa conscious Birthday prabhu'; /* The text dear XXX! */
 var speed = 100; /* The speed/duration of the effect in milliseconds */
 var newline='<br/>';
-var emoji='&#128522;';
+var emoji='&#128591;'; //128522
 var count=0;
 function typeWriter() {
   if (i < txt.length) {
