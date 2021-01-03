@@ -126,7 +126,7 @@ body {
 
 #image {
   display: inline-block;
-  margin-top: 150px;
+  margin-top: 200px;
   width: 150px;
   height: 150px;
   position: relative;
@@ -150,7 +150,7 @@ body {
 #demo {
   text-shadow: 1px 0 4px #706b6b;
   position: absolute;
-  top: 25%;
+  top: 19%;
   left: 5%;
   text-align: center;
   font-size: 34px;
